@@ -28,7 +28,7 @@ export const data = [
             'nextcss',
             'PostCSS'
         ],
-        answer: 'PostCSS'
+        answer: 'nextcss'
     },
 
 ]
